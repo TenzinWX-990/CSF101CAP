@@ -7,7 +7,7 @@
 # https://youtu.be/fn68QNcatfo?feature=shared
 ################################
 # SOLUTION
-# Your Solution Score:46178
+# Your Solution Score:49483
 # Put your number here:3
 ################################
 
