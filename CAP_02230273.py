@@ -7,7 +7,7 @@
 # https://youtu.be/fn68QNcatfo?feature=shared
 ################################
 # SOLUTION
-# Your Solution Score:46178
+# Your Solution Score:49483
 # Put your number here:3
 ################################
 
@@ -16,7 +16,7 @@ def read_input():
     return my_file
 
 def calculate_score(point):
-    score = {'A X': 3, 'A Y': 4, 'A Z': 8, 'B X': 1, 'B Y': 5, 'B Z': 9, 'C X': 2, 'C Y': 6, 'C Z': 7}
+    score = {'B X': 1, 'C X': 2, 'A X': 3, 'A Y': 4, 'B Y': 5, 'C Y': 6, 'A Z': 8, 'C Z': 7, 'B Z': 9}
     total_score = 0
     for line in point:
         key = line.strip()
